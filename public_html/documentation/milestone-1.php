@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 <meta charset="UTF-8">
-<title>Mile Stone 1</title>
+<title>PWP Milestone 1 </title>
 </head>
 
-
-
 <body>
+	<div class="container">
+	<h1>Mile Stone 1</h1>
 	<h2>Purpose, Audience & Goal </h2>
 	<p><strong>Purpose: </strong>A professional portfolio to showcase my skill-set as a Web Developer who is
 		fluent in modern Web languages and frameworks. </p>
@@ -33,10 +34,12 @@
 	<p><strong>User Story:</strong>As a non-profit founder, I would like to create a website detailing our goals, mission and vision,
 	so that we can attract funding and volunteers. </p>
 
-<?php
+
+	<?php
 
 
 
 ?>
+	</div>
 </body>
 </html>
