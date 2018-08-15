@@ -1,7 +1,10 @@
-
 body{
-	font-family: "Sofia", sans-serif;
+	font-family: sans-serif;
 }
 #bashir{
 	width: 60px;
+}
+.full-width{
+	width: 100%;
+	height: 700px;
 }
