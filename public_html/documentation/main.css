@@ -3,6 +3,11 @@
 #bashir{
 	width: 60px;
 }
-#computercode{
-	width: 100%;
+/*#computercode{*/
+	/*width: 100%;*/
+/*}*/
+h2 #heroimagetext{
+	font-weight: bold;
+	font-family: monospace;
+	background-color: blue;
 }
