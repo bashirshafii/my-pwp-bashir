@@ -28,12 +28,14 @@ body{
 	padding-top: 10%;
 	color: white;
 	font-weight: bold;
-	font-size: 2em;
+	font-size: 3em;
 	text-align: center;
 	margin: 0 auto;
+	/*font-family: 'Permanent Marker', cursive;*/
+	font-family: 'Rock Salt', cursive;
 }
 .btn-main{
-	margin-top: 30%;
+	margin-top: 10%;
 	margin-left: 45%;
 }
 
