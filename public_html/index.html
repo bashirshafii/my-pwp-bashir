@@ -13,7 +13,8 @@
 		<link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Rock+Salt" rel="stylesheet">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
-		<link rel="stylesheet" href="main.css">
+		<link rel="stylesheet" href="css/main.css">
+		<script src='https://www.google.com/recaptcha/api.js'></script>
 	</head>
 	<body>
 		<main class="container">
@@ -22,7 +23,7 @@
 				<div class="navbar navbar-expand-sm navbar-primary bg-info navbar-custom py-3">
 					<!--Brand-->
 					<a class="navbar-brand" href="#about">
-						<img id="bashir"  src="./images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">
+						<img id="bashir" src="images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">
 					</a>
 					<!--menu link-->
 					<div class="collapse navbar-collapse justify-content-end">
@@ -80,7 +81,7 @@
 				<!--first card-->
 				<div class="col-sm-3 col-md-6 col-lg-4">
                <h3>Web and App Development</h3>
-					<img class="rounded img-fluid"src="images/webdevelopment.jpg" alt="">
+					<img class="rounded img-fluid" src="images/webdevelopment.jpg" alt="">
 
 				</div>
 </div>
@@ -104,7 +105,7 @@
 			<div class="row">
 			<div class="col-sm-3 col-md-6 col-lg-4">
 				<h3>Consulting</h3>
-				<img class="img-fluid rounded"src="images/consulting.jpeg" alt="">
+				<img class="img-fluid rounded" src="images/consulting.jpeg" alt="">
 
 
 			</div>
@@ -125,7 +126,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-4">
-							<img id="bashir"  src="./images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">
+							<img id="bashir" src="images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">
 							<p>
 								<!--<img id="bashir"  src="./images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">-->
 								Bashir is awsome!
@@ -133,14 +134,14 @@
 							<cite> - John Doe</cite>
 						</div>
 						<div class="col-md-4">
-							<img id="bashir"  src="./images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">
+							<img id="bashir" src="images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">
 							<p>
 								Bashir is awsome!
 							</p>
 							<cite> - John Doe</cite>
 						</div>
 						<div class="col-md-4">
-							<img id="bashir"  src="./images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">
+							<img id="bashir" src="images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">
 							<p>
 								Bashir is awsome!
 							</p>
@@ -164,6 +165,10 @@
 					<div class="form-group">
 						<label for="message">Message:</label>
 						<textarea name="message" id="message" cols="30" rows="10" class="form-control"></textarea>
+					</div>
+					<div class="form-group">
+						<div class="g-recaptcha" data-sitekey="6LdMGG4UAAAAAEq1sVkP0MDhoXLojEPgJNtGkqfv"></div>
+
 					</div>
 
 					<button type="submit" class="btn btn-primary">Submit</button>

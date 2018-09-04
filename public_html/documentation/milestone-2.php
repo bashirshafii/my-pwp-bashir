@@ -33,11 +33,11 @@
 			<hr>
 			<h4>Full Screen Layout</h4>
 			<hr>
-			<img src="./images/myprofilewebsite.png" alt="full screen website" class="img-fluid">
+			<img src="../images/myprofilewebsite.png" alt="full screen website" class="img-fluid">
 			<hr>
 			<h4>Mobile Layout</h4>
 			<hr>
-			<img src="./images/mobilewireframe.png" alt="mobile app" class="img-fluid">
+			<img src="../images/mobilewireframe.png" alt="mobile app" class="img-fluid">
 
 
 
