@@ -154,13 +154,13 @@
 			<div class="row">
 
 				<div class="col-md-6 col-lg-4">
-					<a href="https://www.blackswantech.com"><img id="blackswan" class="img-fluid rounded "src="images/blackswan.jpg" alt="blackswan website"></a>
+					<a href="https://www.blackswantech.com" target="_blank"><img id="blackswan" class="img-fluid rounded "src="images/blackswan.jpg" alt="blackswan website"></a>
 				</div>
 				<div class="col-md-6 col-lg-4">
-					<a href="https://www.blackswantech.com"><img id="blackswan" class="img-fluid rounded "src="images/blackswan.jpg" alt="blackswan website"></a>
+					<a href="https://www.blackswantech.com" target="_blank"><img id="blackswan" class="img-fluid rounded "src="images/blackswan.jpg" alt="blackswan website"></a>
 				</div>
 				<div class="col-md-6 col-lg-4">
-					<a href="https://www.blackswantech.com"><img id="blackswan" class="img-fluid rounded "src="images/blackswan.jpg" alt="blackswan website"></a>
+					<a href="https://www.blackswantech.com" target="_blank"><img id="blackswan" class="img-fluid rounded "src="images/blackswan.jpg" alt="blackswan website"></a>
 				</div>
 			</div>
 			<hr>
