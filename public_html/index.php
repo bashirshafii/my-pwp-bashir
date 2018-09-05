@@ -164,11 +164,11 @@
 				<form id="my-contact-form" action="php/mailer.php" method="post">
 					<div class="form-group">
 						<label for="name">Your Name:</label>
-						<input type="text" class="form-control" id="name">
+						<input type="text" name="name" class="form-control" id="name">
 					</div>
 					<div class="form-group">
 						<label for="email">Email address:</label>
-						<input type="email" class="form-control" id="email">
+						<input  type="email" name="email" class="form-control" id="email">
 					</div>
 					<div class="form-group">
 						<label for="message">Message:</label>
