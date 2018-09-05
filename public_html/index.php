@@ -98,11 +98,12 @@
 			<div class="row">
 
 				<div class="col-sm-3 col-md-6 col-lg-4">
+					<h3>Mentoring</h3>
 					<p>Mentoring Services</p>
 
 				</div>
 				<div class="col-sm-3 col-md-6 col-lg-4">
-					<h3>Mentoring</h3>
+
 					<img class=" rounded img-fluid float-right" src="images/mentoring.jpg" alt="">
 
 
