@@ -174,14 +174,19 @@
 						<label for="message">Message:</label>
 						<textarea name="message" id="message" cols="30" rows="10" class="form-control"></textarea>
 					</div>
-					<div class="form-group">
-						<div class="g-recaptcha" data-sitekey="6LdMGG4UAAAAAEq1sVkP0MDhoXLojEPgJNtGkqfv"></div>
 
-					</div>
-
+					<div class="g-recaptcha" data-sitekey="6LdMGG4UAAAAAEq1sVkP0MDhoXLojEPgJNtGkqfv"></div>
 					<button type="submit" class="btn btn-primary">Submit</button>
 					<button type="reset" class="btn btn-warning">Reset</button>
 				</form>
+				<div class="row">
+					<div class="col-xs-12">
+						<div id="output-area"></div>
+					</div>
+				</div>
+
+
+
 			</div>
 			<hr>
 
