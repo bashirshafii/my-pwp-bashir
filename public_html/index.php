@@ -4,7 +4,7 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="keywords" content="website design and development">
-		<title>Bashir Shafii | Software Engineer</title>
+
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js">
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.js"></script>
@@ -16,6 +16,7 @@
 		<link rel="stylesheet" href="css/main.css">
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 		<script src="./js/form-validate.js"></script>
+		<title>Bashir Shafii | Software Engineer</title>
 	</head>
 	<body>
 		<main class="container">
@@ -24,7 +25,7 @@
 				<div class="navbar navbar-expand-sm navbar-primary bg-info navbar-custom py-3">
 					<!--Brand-->
 					<a class="navbar-brand" href="#about">
-						<img id="bashir" src="images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">
+						<img id="bashir1" src="images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">
 					</a>
 					<!--menu link-->
 					<div class="collapse navbar-collapse justify-content-end">
@@ -127,7 +128,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-4">
-							<img id="bashir" src="images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">
+							<img id="bashir2" src="images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">
 							<p>
 								<!--<img id="bashir"  src="./images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">-->
 								Bashir is awsome!
@@ -135,14 +136,14 @@
 							<cite> - John Doe</cite>
 						</div>
 						<div class="col-md-4">
-							<img id="bashir" src="images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">
+							<img id="bashir3" src="images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">
 							<p>
 								Bashir is awsome!
 							</p>
 							<cite> - John Doe</cite>
 						</div>
 						<div class="col-md-4">
-							<img id="bashir" src="images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">
+							<img id="bashir4" src="images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">
 							<p>
 								Bashir is awsome!
 							</p>
