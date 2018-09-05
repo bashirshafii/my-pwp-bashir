@@ -130,22 +130,39 @@
 			</div>
 			<hr>
 				<!--third card-->
+			<div class="text-center">
+			<h3>Consulting</h3>
+			</div>
 			<div class="row">
-			<div class="col-sm-3 col-md-6 col-lg-4">
-				<h3>Consulting</h3>
+				<div class="col-md-6 col-lg-6">
+					<img class="img-fluid rounded" src="images/consulting.jpeg" alt="">
+
+
+				</div>
+			<div class="col-md-6 col-lg-6">
+
 				<p>Do you have a business idea that you believe can be accelerated by a technology solution? If so, I can help you avoid costly pitfalls early in the project.
 				If you are a recruiter looking to staff a project for one of your client companies, I have helped implementing major enterprise projects. </p>
-				<img class="img-fluid rounded" src="images/consulting.jpeg" alt="">
-
-
 			</div>
+
 			</div>
 
 			<hr>
-				<div class="py-3">
-					<h2 class="text-center" id="portfolio">Portfolio</h2>
-					<p></p>
-					</div>
+			<div class="text-center">
+				<h2 id="portfolio">Portfolio</h2>
+			</div>
+			<div class="row">
+
+				<div class="col-md-6 col-lg-4">
+					<a href="https://www.blackswantech.com"><img id="blackswan" class="img-fluid rounded "src="images/blackswan.jpg" alt="blackswan website"></a>
+				</div>
+				<div class="col-md-6 col-lg-4">
+					<a href="https://www.blackswantech.com"><img id="blackswan" class="img-fluid rounded "src="images/blackswan.jpg" alt="blackswan website"></a>
+				</div>
+				<div class="col-md-6 col-lg-4">
+					<a href="https://www.blackswantech.com"><img id="blackswan" class="img-fluid rounded "src="images/blackswan.jpg" alt="blackswan website"></a>
+				</div>
+			</div>
 			<hr>
 				<!--<div class="py-3">-->
 					<!--<h2 class="text-center" id="portfolio">Testimonials</h2>-->
