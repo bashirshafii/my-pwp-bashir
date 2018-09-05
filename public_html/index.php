@@ -161,7 +161,7 @@
 			<hr>
 			<div class="py-3">
 				<h2 class="text-center" id="contact">Contact Us</h2>
-				<form id="my-contact-form">
+				<form id="my-contact-form" action="php/mailer.php" method="post">
 					<div class="form-group">
 						<label for="name">Your Name:</label>
 						<input type="text" class="form-control" id="name">
