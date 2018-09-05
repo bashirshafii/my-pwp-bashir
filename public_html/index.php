@@ -90,6 +90,9 @@
 				<div class="col-sm-3 col-md-6 col-lg-4">
                <h3>Web and App Development</h3>
 					<img class="rounded img-fluid" src="images/webdevelopment.jpg" alt="">
+					<p>Are you a small business owner or non-profit manager interested in reaching new clients, members, donors, volunteers? Let's help
+					you with your website or mobile app. Focus on what you do best: serving your customers. Leverage the power of technology to automate
+					manual processes or reach a new audience. </p>
 
 				</div>
 </div>
