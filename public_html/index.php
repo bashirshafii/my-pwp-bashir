@@ -85,41 +85,56 @@
 				<h2 class="text-center" id="services">Services</h2>
 			</div>
 			<hr>
+			<div class="text-center">
+				<h3> Web and App Development</h3>
+			</div>
 			<div class="row">
+
 				<!--first card-->
-				<div class="col-sm-3 col-md-6 col-lg-4">
-               <h3>Web and App Development</h3>
+<div class="col-md-6 col-lg-6">
+
+
 					<img class="rounded img-fluid" src="images/webdevelopment.jpg" alt="">
-					<p>Are you a small business owner or non-profit manager interested in reaching new clients, members, donors, volunteers? Let's help
+</div>
+				<div class="col-md-6 col-lg-6">
+					<p class="py-4">Are you a small business owner or non-profit manager interested in reaching new clients, members, donors, or volunteers? Let's help
 					you with your website or mobile app. Focus on what you do best: serving your customers. Leverage the power of technology to automate
 					manual processes or reach a new audience. </p>
-
 				</div>
-</div>
+			</div>
+
+
+
 			<hr>
+			<div class="text-center">
+				<h3>Mentoring</h3>
+			</div>
 				<!--second card-->
 			<div class="row">
 
-				<div class="col-sm-3 col-md-6 col-lg-4">
-					<h3>Mentoring</h3>
+
+
+				<div class="col-md-6 col-lg-6">
+
 					<p>I have mentored over 50 students over the past 5 years to start a career in IT/Software Development. My clients fall into two broad
 					categories: Recent high school graduates/college students who would like to start a career in IT. The second category are typically people with college degrees
 					who have established careers in a non-IT field. They are career-changers that would like to get into the IT/Software Development industry. Regardless
-					of which category you belong to, I can help develop a game plan and a learning path to achieve your career goals.</p>
+					of which category you belong to, I can help you develop a game plan and a learning path to achieve your career goals.</p>
 
 				</div>
-				<div class="col-sm-3 col-md-6 col-lg-4">
-
+				<div class="col-md-6 col-lg-6">
 					<img class=" rounded img-fluid float-right" src="images/mentoring.jpg" alt="">
 
-
 				</div>
+
 			</div>
 			<hr>
 				<!--third card-->
 			<div class="row">
 			<div class="col-sm-3 col-md-6 col-lg-4">
 				<h3>Consulting</h3>
+				<p>Do you have a business idea that you believe can be accelerated by a technology solution? If so, I can help you avoid costly pitfalls early in the project.
+				If you are a recruiter looking to staff a project for one of your client companies, I have helped implementing major enterprise projects. </p>
 				<img class="img-fluid rounded" src="images/consulting.jpeg" alt="">
 
 
