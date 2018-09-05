@@ -80,7 +80,7 @@ try {
 		throw(new RuntimeException("Unable to send email"));
 	}
 	// reports a successful send
-	echo "<div class=\"alert alert-success\" role=\"alert\">Email sent.</div>";
+	echo "<div class=\"alert alert-success\" role=\"alert\">Thanks for contacting us.We will be in touch soon.</div>";
 	// reports email failure to send
 } catch(Exception $exception) {
 	echo "<div class=\"alert alert-danger\" role=\"alert\">Unable to send email: " . $exception->getMessage() . "</div>";
