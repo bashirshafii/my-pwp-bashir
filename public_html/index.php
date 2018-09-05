@@ -102,7 +102,10 @@
 
 				<div class="col-sm-3 col-md-6 col-lg-4">
 					<h3>Mentoring</h3>
-					<p>Mentoring Services</p>
+					<p>I have mentored over 50 students over the past 5 years to start a career in IT/Software Development. My clients fall into two broad
+					categories: Recent high school graduates/college students who would like to start a career in IT. The second category are typically people with college degrees
+					who have established careers in a non-IT field. They are career-changers that would like to get into the IT/Software Development industry. Regardless
+					of which category you belong to, I can help develop a game plan and a learning path to achieve your career goals.</p>
 
 				</div>
 				<div class="col-sm-3 col-md-6 col-lg-4">
