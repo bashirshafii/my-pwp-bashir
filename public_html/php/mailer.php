@@ -5,7 +5,7 @@
  * This file will handle the secure mail transport using the Swiftmailer
  * library with Google reCAPTCHA integration
  *
- * @author Bashir Shafii , bashir.shafii@gmail.com
+ * @author Bashir Shafii <bashir.shafii@gmail.com>
  **/
 require_once(dirname(__DIR__, 2) . "/vendor/autoload.php");
 // require mail-config.php
@@ -19,7 +19,7 @@ try {
 		throw(new Exception("reCAPTCHA error"));
 	}
 	/**
-	 * Sanitize the inputs from the form: name, email, phone, company, message;
+	 * Sanitize the inputs from the form: name, email, message;
 	 * this assumes jQuery (not Angular) will be AJAX submitting the form,
 	 * so we're not using the $_POST superglobal.
 	 **/
