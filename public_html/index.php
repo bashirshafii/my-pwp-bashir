@@ -173,26 +173,34 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-4">
-							<img id="bashir2" src="images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">
-							<p>
-								<!--<img id="bashir"  src="./images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">-->
-								Bashir is awsome!
-							</p>
-							<cite> - John Doe</cite>
+
+							<blockquote>
+								I was working in the Banking Industry for couple years, and I was looking to challenge myself and advance my career. Fortunately, I met Mr.Bashir Shafii, CTO of Black Swan Solution, Inc., and took a course from him in IT Business Analysis. Bashir helped me understand what it takes to become a Business Analyst and provided strategies in finding a Business Analyst job.
+								I am thankful for the opportunity and currently working as a Business Analyst in a major Insurance company.
+							</blockquote>
+							<cite> - Jimmy Liu</cite>
 						</div>
 						<div class="col-md-4">
-							<img id="bashir3" src="images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">
-							<p>
-								Bashir is awsome!
-							</p>
-							<cite> - John Doe</cite>
+
+							<blockquote>
+
+								I took the Microsoft Technology Associate - Network Fundamentals course at Black Swan Solutions in October 2017. My instructor, Bashir Shafii,  had real world experience and didn't just teach theory. I was able to pass the certification exam on my first attempt and with a very high score ,in large part, due to the course I took at this school.
+								With the certification in hand, I was able to get a job as a Help Desk Technician. I highly recommend this instructor and school.
+
+							</blockquote>
+
+							<cite> - Jeanpierre Otindo</cite>
 						</div>
 						<div class="col-md-4">
-							<img id="bashir4" src="images/bashir.jpeg" class="img-thumbnail rounded-circle" alt="Bashir's photo">
-							<p>
-								Bashir is awsome!
-							</p>
-							<cite> - John Doe</cite>
+
+							<blockquote>
+								I took the Microsoft Technology Associate - Network Fundamentals course at Black Swan Solutions in September 2017. The school is located in ideal location in Bloomington with plenty of parking and easy access by bus.
+								They have a well-equipped computer lab. The instructors were very knowledgeable and took the time to break down complex concepts for students. Both my instructors - Taylor Kerber and Bashir Shafii - are IT professionals with tons of industry experience.
+								I highly recommend this school to anyone who wants to get started in the IT industry!
+							</blockquote>
+
+
+							<cite> - Aiyan Mohamed </cite>
 						</div>
 					</div>
 				</div>
