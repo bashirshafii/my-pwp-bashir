@@ -55,6 +55,9 @@
 				</div>
 				</div>
 			<hr>
+
+<!--			Hero Image-->
+
 			<div class="bg-image">
 				<div class="container">
 					<p id="imgtext">Hi! My name is Bashir . How may I help you with your website needs?</p>
@@ -68,9 +71,7 @@
 
 			<hr>
 
-
-
-
+<!--            About Me-->
 
 			<div class="py-3">
 				<h2 class="text-center" id="about">About Me</h2>
