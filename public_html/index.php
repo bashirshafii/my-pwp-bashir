@@ -252,10 +252,10 @@
 			<div>
 				<footer class="bg-info py-3">
 					<p class="text-center"> &copy; Bashir Shafii </p>
-					<p class="social">
-						<a href="#" class="fab fa-github fab-align-center"></a>
-						<a href="#" class="fab fa-linkedin fab-align-center"></a>
-					</p>
+					<div class="ml-auto mr-auto">
+						<a href="https://github.com/bashirshafii" target="_blank" class="fab fa-github fab-align-center"></a>
+						<a href="https://www.linkedin.com/in/bashirshafii/" target="_blank" class="fab fa-linkedin fab-align-center"></a>
+					</div>
 				</footer>
 			</div>
 			<hr>

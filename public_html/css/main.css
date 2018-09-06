@@ -50,8 +50,6 @@ body{
 
 }
 
-
-.social {
-	display: inline-block;
+.social{
+	margin: 0 auto;
 }
-
