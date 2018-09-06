@@ -249,7 +249,11 @@
 
 			</div>
 			<hr>
-
+			<div>
+				<footer class="bg-info">
+					&copy; Bashir Shafii
+				</footer>
+			</div>
 
 		</main>
 		<script src="./js/form-validate.js"></script>
