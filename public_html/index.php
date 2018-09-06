@@ -82,15 +82,20 @@
 			<div>
 
 
+<!--				Services offered -->
+
 				<h2 class="text-center" id="services">Services</h2>
 			</div>
 			<hr>
+
+<!--			Web and App Development-->
+
 			<div class="text-center">
 				<h3> Web and App Development</h3>
 			</div>
 			<div class="row">
 
-				<!--first card-->
+
 <div class="col-md-6 col-lg-6">
 
 
@@ -106,10 +111,13 @@
 
 
 			<hr>
+
+<!--			Mentoring-->
+
 			<div class="text-center">
 				<h3>Mentoring</h3>
 			</div>
-				<!--second card-->
+
 			<div class="row">
 
 
@@ -129,7 +137,10 @@
 
 			</div>
 			<hr>
-				<!--third card-->
+				<!--Consulting-->
+
+
+
 			<div class="text-center">
 			<h3>Consulting</h3>
 			</div>
@@ -148,6 +159,9 @@
 			</div>
 
 			<hr>
+
+<!--			Showcasing previous work for clients under 'portfolio-->
+
 			<div class="text-center">
 				<h2 id="portfolio">Portfolio</h2>
 			</div>
@@ -249,6 +263,9 @@
 
 			</div>
 			<hr>
+
+<!--			footer and social media link-->
+
 			<div>
 				<footer class="bg-info py-3">
 					<p class="text-center"> &copy; Bashir Shafii </p>
