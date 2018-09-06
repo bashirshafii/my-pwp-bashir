@@ -164,14 +164,18 @@
 				</div>
 			</div>
 			<hr>
-				<!--<div class="py-3">-->
-					<!--<h2 class="text-center" id="portfolio">Testimonials</h2>-->
-					<!--<p></p>-->
-				<!--</div>-->
+
+
+<!--			Client Testimonials -->
+
+
 			<section class="testimonials">
 				<h2 class="text-center" id="testimonials">Testimonials</h2>
 				<div class="container">
 					<div class="row">
+
+<!--						First Testimonial -->
+
 						<div class="col-md-4">
 
 							<blockquote>
@@ -180,6 +184,9 @@
 							</blockquote>
 							<cite> - Jimmy Liu</cite>
 						</div>
+
+<!--						Second Testimonial -->
+
 						<div class="col-md-4">
 
 							<blockquote>
@@ -191,6 +198,9 @@
 
 							<cite> - Jeanpierre Otindo</cite>
 						</div>
+
+<!--						Third Testimonial -->
+
 						<div class="col-md-4">
 
 							<blockquote>
@@ -206,6 +216,9 @@
 				</div>
 			</section>
 			<hr>
+
+<!--			Contact Form -->
+
 			<div class="py-3">
 				<h2 class="text-center" id="contact">Contact Us</h2>
 				<form id="my-contact-form" action="php/mailer.php" method="post">
