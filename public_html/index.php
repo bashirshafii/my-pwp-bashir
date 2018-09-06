@@ -250,10 +250,15 @@
 			</div>
 			<hr>
 			<div>
-				<footer class="bg-info">
-					&copy; Bashir Shafii
+				<footer class="bg-info py-3">
+					<p class="text-center"> &copy; Bashir Shafii </p>
+					<p class="social">
+						<a href="#" class="fab fa-github fab-align-center"></a>
+						<a href="#" class="fab fa-linkedin fab-align-center"></a>
+					</p>
 				</footer>
 			</div>
+			<hr>
 
 		</main>
 		<script src="./js/form-validate.js"></script>
